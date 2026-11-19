@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Ravi 👋
 
-<!--
-**Thisisravigupta/Thisisravigupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer specializing in **Go Backend Development and E-commerce Engineering**.
 
-Here are some ideas to get you started:
+I enjoy building scalable APIs, optimizing backend performance, and creating high-quality Shopify experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+- **Backend:** Go, REST APIs, Microservices
+- **E-commerce:** Shopify, Liquid, JavaScript
+- **Databases:** PostgreSQL, Redis, DocumentDB
+- **Infrastructure:** AWS, Docker, Kubernetes, Datadog
+
+### Explore My Work
+
+🌐 **[Visit My Portfolio](https://your-domain.com)**
+
+### Let's Connect
+
+I'm open to selected freelance projects, collaborations, and backend engineering opportunities.
+
+Connect with me on LinkedIn or reach out through my portfolio.
